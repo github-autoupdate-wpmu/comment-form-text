@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Comment Form Text
-Plugin URI: 
-Description:
+Plugin URI: http://premium.wpmudev.org
+Description: Allows you simply add in code to comemnt forms for logged in and non logged in users
 Author: Andrew Billits
-Version: 1.0.0
-Author URI:
+Version: 1.0.1
+WDP ID: 11
 */
 
 /* 

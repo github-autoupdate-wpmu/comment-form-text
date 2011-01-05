@@ -1,0 +1,30 @@
+Plugin Name: Comment Form Text
+Author: Andrew Billits
+
+Files:
+----------------------------------------------------------------------
+comment-form-text.php - goes in /wp-content/mu-plugins
+
+Instructions:
+----------------------------------------------------------------------
+To install:
+
+1.  Download the plugin file
+2.  Unzip comment-form-text.php into a folder on your hard drive
+3.  Upload comment-form-text.php  to wp-content/mu-plugins/
+
+Uploading blog activity.php to mu-plugins folder
+
+To Use:
+
+Open the file comment-from-text.php
+
+Replace the <!-- Content Goes Here ---> text with the code or text that you want a non logged in user to see in line 41 and place the code or text you want a logged in user to see in line 46.
+
+Now, where you want the text to appear in a theme place the following php code: <?php if (function_exists('comment_form_text_output')){ comment_form_text_output(); } ?>
+
+All of the Farms '100 big ones' theme pack already contain this code, positioned correctly and tested.
+
+Please find more information regarding installation and get help and support for use of this plugin here:
+
+http://premium.wpmudev.org/project/comment-form-text/installation/
