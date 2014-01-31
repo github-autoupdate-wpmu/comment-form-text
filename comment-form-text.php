@@ -3,7 +3,7 @@
 Plugin Name: Comment Form Text
 Plugin URI: http://premium.wpmudev.org/project/comment-form-text
 Description: Easily add and manage text, or advertisements, or social elements (i.e. 'Share This' buttons) in the comment form area of every blog
-Author: Ivan Shaovchev & Andrew Billits (Incsub)
+Author: WPMU DEV
 Version: 1.0.2
 Network: true
 WDP ID: 11
