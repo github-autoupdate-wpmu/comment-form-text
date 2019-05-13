@@ -1,4 +1,12 @@
+# Comment Form Text
+
 **INACTIVE NOTICE: This plugin is unsupported by WPMUDEV, we've published it here for those technical types who might want to fork and maintain it for their needs.**
+
+## Translations
+
+Translation files can be found at https://github.com/wpmudev/translations
+
+
 
 
 Simply add text, php or javascript to your comment form with Comment Form Text.
