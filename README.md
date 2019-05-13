@@ -6,7 +6,7 @@
 
 Translation files can be found at https://github.com/wpmudev/translations
 
-
+## Usage
 
 
 Simply add text, php or javascript to your comment form with Comment Form Text.
